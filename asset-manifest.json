@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bkallaus.github.io/static/css/main.db6f0745.chunk.css",
+    "main.js": "/bkallaus.github.io/static/js/main.b09bc2f5.chunk.js",
+    "main.js.map": "/bkallaus.github.io/static/js/main.b09bc2f5.chunk.js.map",
+    "runtime-main.js": "/bkallaus.github.io/static/js/runtime-main.bff51add.js",
+    "runtime-main.js.map": "/bkallaus.github.io/static/js/runtime-main.bff51add.js.map",
+    "static/css/2.d64471e2.chunk.css": "/bkallaus.github.io/static/css/2.d64471e2.chunk.css",
+    "static/js/2.8adf60db.chunk.js": "/bkallaus.github.io/static/js/2.8adf60db.chunk.js",
+    "static/js/2.8adf60db.chunk.js.map": "/bkallaus.github.io/static/js/2.8adf60db.chunk.js.map",
+    "index.html": "/bkallaus.github.io/index.html",
+    "precache-manifest.6b0e7367d83a22b124cc4aa2359c0265.js": "/bkallaus.github.io/precache-manifest.6b0e7367d83a22b124cc4aa2359c0265.js",
+    "service-worker.js": "/bkallaus.github.io/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/bkallaus.github.io/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/bkallaus.github.io/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.8adf60db.chunk.js.LICENSE.txt": "/bkallaus.github.io/static/js/2.8adf60db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bff51add.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.8adf60db.chunk.js",
+    "static/css/main.db6f0745.chunk.css",
+    "static/js/main.b09bc2f5.chunk.js"
+  ]
+}
